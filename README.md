@@ -1,10 +1,8 @@
-# Programming Assignment 1
+# Lab 1 (CSCI 360 - Introduction to Artificial Intelligence)
 
-## Course: CSCI 360 - Introduction to Artificial Intelligence
+Lab instruction: [`lab1.pdf`](lab1.pdf). Due on Feb, 9th 2014, EOD PT.
 
------
-
-### Setting up the environment
+## Setting up the environment
 
 Follow the command line instruction below to initialize you repository
 locally. Replace `YOUR-GITHUB-REPO-HERE` with the url that GitHub
@@ -19,7 +17,7 @@ pip install -r requirements.txt
 
 ```
 
-### Writing Your Code:
+## Writing Your Code:
 
 All of the code that will be evaluated and graded will live in
 [`lab1.py`](lab1.py).
