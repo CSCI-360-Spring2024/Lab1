@@ -25,14 +25,15 @@ All of the code that will be evaluated and graded will live in
 [`lab1.py`](lab1.py).
 
 You can use any python package that is installed by `pip` or `conda`
-when you created the environment.
+when you create the environment.
 
 You are provided with [`lab1_utils.py`](`lab1_utils.py`) which contains
 the `TextbookStack` class. The constructor for this class expects two
 lists that represents the order. The first list `initial_order` is a
 list of length `n` that expects each integer `[0, n-1]` to be present
 once, The second list `initial_orientation` should be a list of length
-`n` of exclusively `0`s and `1`s. Will represent the Textbook facing up.
+`n` of exclusively `0`s and `1`s, representing whether each Textbook is 
+facing up.
 
 ```
 >>> from lab1_utils import TextbookStack
