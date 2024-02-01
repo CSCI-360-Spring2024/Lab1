@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ### Writing Your Code:
 
 All of the code that will be evaluated and graded will live in
-[`lab1.py`](lab.py).
+[`lab1.py`](lab1.py).
 
 You can use any python package that is installed by `pip` or `conda`
 when you created the environment.
