@@ -1,6 +1,6 @@
 # Lab 1 (CSCI 360 - Introduction to Artificial Intelligence)
 
-Lab instruction: [`lab1.pdf`](lab1.pdf). Due on Feb, 9th 2014, EOD PT.
+Lab instruction: [`lab1.pdf`](lab1.pdf). Due on Feb, 9th 2024, EOD PT.
 
 ## Setting up the environment
 
