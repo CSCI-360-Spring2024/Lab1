@@ -2,6 +2,8 @@
 
 Lab instruction: [`lab1.pdf`](lab1.pdf). Due on Feb, 9th 2024, EOD PT.
 
+Extra credit instruction: Submit a separate pdf `lab1-extra-credit.pdf` with your analysis, figures, code to generate the figures, etc. 
+
 ## Setting up the environment
 
 Follow the command line instruction below to initialize you repository
@@ -10,11 +12,8 @@ generates for you repository.
 
 ```
 git clone YOUR-GITHUB-REPO-HERE
-
 conda env create --file csci360_prog_assingment_1.txt
-
 pip install -r requirements.txt
-
 ```
 
 ## Writing Your Code:
