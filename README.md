@@ -7,13 +7,11 @@ Extra credit instruction: Submit a separate pdf `lab1-extra-credit.pdf` with you
 ## Setting up the environment
 
 Follow the command line instruction below to initialize you repository
-locally. Replace `YOUR-GITHUB-REPO-HERE` with the url that GitHub
-generates for you repository.
+locally. 
 
 ```
-git clone YOUR-GITHUB-REPO-HERE
-conda env create --file csci360_prog_assingment_1.txt
-pip install -r requirements.txt
+git clone <YOUR-GITHUB-REPO-HERE>
+conda create -n <env-name> python=3.9
 ```
 
 ## Writing Your Code:
