@@ -11,7 +11,9 @@ locally.
 
 ```
 git clone <YOUR-GITHUB-REPO-HERE>
+cd <YOUR-GITHUB-REPO-HERE>
 conda create -n <env-name> python=3.9
+conda activate <env-name>
 pip install -r requirements.txt
 ```
 
